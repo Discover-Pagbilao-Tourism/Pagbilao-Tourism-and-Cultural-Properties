@@ -220,6 +220,10 @@ function myFunctionImmovable()
 {
     window.location.href="Immovable.html";
 }
+function myFunctionDirectory()
+{
+    window.location.href="https://docs.google.com/spreadsheets/d/13nMwX-uwxsOJLM2fPm67a9lFapH_bQag/edit?gid=1648692715#gid=1648692715";
+}
 
 function myFunctionEmeRoad()
 {
